@@ -2,7 +2,7 @@
 <h3>Systems Architect & Infrastructure Developer specializing in open-source AI platform safety.</h3>
 
 <p align="left">
-  <img src="./rich-profile.jpg" width="150px" style="border-radius: 50%;" alt="Rich Knowles" />
+  <img src="./rich-profile.gif" width="150px" style="border-radius: 50%;" alt="Rich Knowles" />
 </p>
 
 ### 🛠️ What I'm Building & Executing Right Now
