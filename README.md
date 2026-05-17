@@ -25,11 +25,12 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-### 📊 Stats (yes I contribute, no I don't touch grass)
+### 📊 Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richknowles&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richknowles&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="languages" />
+<p align="left">
+  <img src="https://img.shields.io/github/stars/richknowles?style=for-the-badge&logo=github&color=white&label=Total%20Stars" alt="stars" />
+  <img src="https://img.shields.io/github/followers/richknowles?style=for-the-badge&logo=github&color=white&label=Followers" alt="followers" />
+  <img src="https://img.shields.io/github/last-commit/richknowles/richknowles?style=for-the-badge&logo=github&color=white&label=Profile%20Updated" alt="updated" />
 </p>
 
 ### 🔗 Find me
