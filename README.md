@@ -1,49 +1,47 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Rich Knowles and I'm a Security Risk Governance & AI Compliance Leader, from Elgin, IL.</h2>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-<p align="center">
+<p align="left">
   <img src="./rich-profile.jpg" width="150px" style="border-radius: 50%;" alt="Rich Knowles - Security Risk & Compliance Leader" />
 </p>
-###
+
+### 🚀 Current Initiatives
+* **🔭 I’m working on:** [Project Peacock](https://github.com) — defining localized security boundaries, filesystem containment, and risk guardrails within the Model Context Protocol (MCP) ecosystem.
+* **🌱 I’m currently learning:** The intersection of advanced agentic workflow architectures and enterprise-level risk mitigation frameworks (NIST, ISO 42001).
+* **👯 I’m looking to collaborate on:** Open-source AI safety tools, custom MCP server hardening, and production-grade threat-modeling frameworks for autonomous pipelines.
+* **💬 Ask me about:** Secure Linux architecture, runtime sandboxing, incident response forensics, and translating engineering vulnerabilities into executive-level risk compliance metrics.
+* **⚡ Fun fact:** I spent time touring as a live sound engineer and guitar tech for the band Slaughter before returning full-time to corporate systems engineering.
+
+### 🛠️ Core Tech Stack & Infrastructure
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://jsdelivr.net" height="35" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://jsdelivr.net" height="35" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://jsdelivr.net" height="35" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://jsdelivr.net" height="35" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://jsdelivr.net" height="35" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://jsdelivr.net" height="35" alt="aws logo"  />
 </div>
 
-###
+### 🔗 Connect With Me
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://shields.io" height="35" alt="linkedin logo"  />
+  <img src="https://shields.io" height="35" alt="gmail logo"  />
+  <img src="https://shields.io" height="35" alt="github logo"  />
 </div>
 
-###
+### 📊 Activity Metrics
+
+<div align="center">
+  <img src="https://vercel.app" height="150" alt="stats graph"  />
+  <img src="https://vercel.app" height="150" alt="languages graph"  />
+</div>
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
-###
