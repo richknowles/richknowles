@@ -1,49 +1,51 @@
-<h2 align="left">My name is Rich Knowles.</h2>
-<h3>Systems Architect & Infrastructure Developer specializing in open-source AI platform safety.</h3>
+<h2 align="left">Rich Knowles</h2>
+<h3>I break things so you don't have to. Infrastructure security, MCP research, and general Linux menace.</h3>
 
 <p align="left">
   <img src="./rich-profile.gif" width="150px" style="border-radius: 50%;" alt="Rich Knowles" />
 </p>
-</div>
-### 🛠️ What I'm Building & Executing Right Now
-* **🔬 Active Dev:** [Project Peacock](https://github.com) — An open-source reference Linux MCP server enforcing strict programmatic safety boundaries, filesystem containment, and runtime isolation for autonomous LLM tools.
-* **🌱 Core Research:** Mapping threat surfaces across agentic runtime environments, specifically protecting infrastructure against prompt injection, privilege escalation, and sandbox escapes.
-* **👯 Open Source Focus:** Hardening localized model orchestration networks and building out multi-tenant infrastructure tooling in Go, Python, and Rust.
-* **💬 Technical Focus:** Linux internals, concurrent service discovery, endpoint security, SIEM architecture, and automated enterprise provisioning pipelines.
-* **⚡ Beyond the Terminal:** Spent years touring the live music circuit as a professional guitar tech and sound engineer for bands like Slaughter before returning focus entirely back to production infrastructure automation.
 
-### 🧰 Core Tech Stack & Infrastructure
+### 🔬 What I'm building
 
-<p align="left">
-  <img src="https://shields.io" alt="Go" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Rust" />
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Bash" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="AWS" />
-</p>
+- **🦚 [Peacock](https://github.com/richknowles/peacock)** — Open-source Linux MCP server that gives Claude Desktop scoped filesystem access without letting it nuke your homedir. Sandboxed command execution, strict allow-listing, timeouts. Python/FastMCP.
+- **📍 [pct-svcmap](https://github.com/richknowles/pct-svcmap)** — Go service discovery for Proxmox clusters. Throws goroutines at LXCs and VMs until it finds everything with a pulse and an open port.
+- **🛡️ [PlexIQ](https://github.com/richknowles/PlexIQ)** — AI media hoarder intervention. Scans your Plex library and tells you what to delete so you don't have to make hard decisions.
+- **👾 [POTA4](https://github.com/richknowles/POTA4)** — Custom RMM platform because none of the off-the-shelf ones respected my firewall rules. Real-time monitoring, automated patching, proactive alerting.
 
-### 🔗 Connect
+### 🧰 Stack I actually use
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:richard@ajricardo.com">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-### 📈 Activity & Contribution Heatmap
+### 📊 Stats (yes I contribute, no I don't touch grass)
 
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Rich Knowles Commit Heatmap Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=richknowles&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richknowles&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="languages" />
 </p>
 
-<div align="center">
-  <img src="https://vercel.app" height="150" alt="stats graph"  />
-  <img src="https://vercel.app" height="150" alt="languages graph"  />
-</div>
+### 🔗 Find me
 
-<br clear="both">
+<p align="left">
+  <a href="https://linkedin.com/in/richknowlestech" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:richard@ajricardo.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://resume.richknowles.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
+---
+
+*Former guitar tech for Slaughter. Current threat to insecure LLM tooling.*
