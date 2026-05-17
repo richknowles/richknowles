@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rich Knowles. </h2>
+<h2 align="left">My name is Rich Knowles.</h2>
 <h3>Systems Architect & Infrastructure Developer specializing in open-source AI platform safety.</h3>
 
 <p align="left">
@@ -6,7 +6,7 @@
 </p>
 
 ### 🛠️ What I'm Building & Executing Right Now
-* **🔭 Active Dev:** [Project Peacock](https://github.com) — An open-source reference Linux MCP server enforcing strict programmatic safety boundaries, filesystem containment, and runtime isolation for autonomous LLM tools.
+* **🔬 Active Dev:** [Project Peacock](https://github.com) — An open-source reference Linux MCP server enforcing strict programmatic safety boundaries, filesystem containment, and runtime isolation for autonomous LLM tools.
 * **🌱 Core Research:** Mapping threat surfaces across agentic runtime environments, specifically protecting infrastructure against prompt injection, privilege escalation, and sandbox escapes.
 * **👯 Open Source Focus:** Hardening localized model orchestration networks and building out multi-tenant infrastructure tooling in Go, Python, and Rust.
 * **💬 Technical Focus:** Linux internals, concurrent service discovery, endpoint security, SIEM architecture, and automated enterprise provisioning pipelines.
@@ -14,41 +14,32 @@
 
 ### 🧰 Core Tech Stack & Infrastructure
 
-<div align="left">
-  <!-- Go -->
-  <img src="https://jsdelivr.net" height="40" width="40" alt="Go" />
-  <img width="10" />
-  <!-- Python -->
-  <img src="https://jsdelivr.net" height="40" width="40" alt="Python" />
-  <img width="10" />
-  <!-- Rust -->
-  <img src="https://jsdelivr.net" height="40" width="40" alt="Rust" />
-  <img width="10" />
-  <!-- Linux -->
-  <img src="https://jsdelivr.net" height="40" width="40" alt="Linux" />
-  <img width="10" />
-  <!-- Bash -->
-  <img src="https://jsdelivr.net" height="40" width="40" alt="Bash" />
-  <img width="10" />
-  <!-- Docker -->
-  <img src="https://jsdelivr.net" height="40" width="40" alt="Docker" />
-  <img width="10" />
-  <!-- AWS -->
-  <img src="https://jsdelivr.net" height="40" width="40" alt="AWS" />
-</div>
+<p align="left">
+  <img src="https://shields.io" alt="Go" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Rust" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Bash" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="AWS" />
+</p>
 
 ### 🔗 Connect
 
-<div align="left">
+<p align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" height="35" alt="linkedin" />
+    <img src="https://shields.io" alt="LinkedIn" />
   </a>
   <a href="mailto:richard@ajricardo.com">
-    <img src="https://shields.io" height="35" alt="gmail" />
+    <img src="https://shields.io" alt="Gmail" />
   </a>
-</div>
+</p>
 
-### 📊 Activity Metrics
+### 📈 Activity & Contribution Heatmap
+
+<p align="center">
+  <img src="https://vercel.app" width="100%" alt="Rich Knowles Commit Heatmap Graph" />
+</p>
 
 <div align="center">
   <img src="https://vercel.app" height="150" alt="stats graph"  />
